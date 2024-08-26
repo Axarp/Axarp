@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I enjoy discovering hidden patterns in data and turning them into actionable insights.**
 
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/805609/screenshots/2909157/connection.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/axarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axarp" height="30" width="40" /></a>
