@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Axar patel</h1>
 <h3 align="center">Data analyst with a master’s in data science, specializing in data engineering. I focus on analyzing complex data and building advanced data pipelines to drive actionable insights and support decision-making.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axarpatel&label=Profile%20views&color=0e75b6&style=flat" alt="axarpatel" /> </p>
 
 - 🔭 I’m currently working on **Working on healthcare data analysis and building advanced data pipelines to drive actionable insights.**
@@ -19,13 +17,11 @@
 
 - ⚡ Fun fact **I enjoy discovering hidden patterns in data and turning them into actionable insights.**
 
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/axarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/axarp" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/axar555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/axar555" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/patelakshar2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/patelakshar2025" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/axarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axarp" height="30" width="40" /></a>
+<a href="https://kaggle.com/axar555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="axar555" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@patelakshar2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@patelakshar2025" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axarpatel&show_icons=true&locale=en" alt="axarpatel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axarpatel&" alt="axarpatel" /></p>
-
