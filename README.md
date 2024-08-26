@@ -1,4 +1,3 @@
-![logo](https://github.com/axarp/axarp/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Axar patel</h1>
 <h3 align="center">Data analyst with a master’s in data science, specializing in data engineering. I focus on analyzing complex data and building advanced data pipelines to drive actionable insights and support decision-making.</h3>
 
