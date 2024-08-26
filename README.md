@@ -2,6 +2,7 @@
 <h3 align="center">Data analyst with a master’s in data science, specializing in data engineering. I focus on analyzing complex data and building advanced data pipelines to drive actionable insights and support decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axarpatel&label=Profile%20views&color=0e75b6&style=flat" alt="axarpatel" /> </p>
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Working on healthcare data analysis and building advanced data pipelines to drive actionable insights.**
 
