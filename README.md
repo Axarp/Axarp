@@ -17,7 +17,9 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 - 💬 Ask me about **Data analysis, Python, SQL, Data Visualization, and Machine learning techniques.**
 
-- 📫 How to reach me **aksharpatel1913@gmail.com**
+- 📝 I regularly write articles on https://medium.com/@patelakshar2025
+
+- 📫 Reach out to me at **aksharpatel1913@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/aksha/Desktop/AKSHAR_PATEL_RESUME_2024_New.pdf](file:///C:/Users/aksha/Desktop/AKSHAR_PATEL_RESUME_2024_New.pdf)
 
