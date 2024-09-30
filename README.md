@@ -1,3 +1,5 @@
+![logo](https://algoscale.com/wp-content/uploads/2023/04/Process-DE-3.gif)
+
 Hi 👋, I'm Axar patel
 
 **`Data Engineer`**
