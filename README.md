@@ -50,6 +50,9 @@ Data analyst with a master’s in data science, specializing in data engineering
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axarp&show_icons=true&locale=en&layout=compact" alt="axarpatel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axarp&show_icons=true&locale=en" alt="axarp" /></p>
+<!-- This image displays GitHub statistics for the user "axarp" -->
+
+
 
 ### 🏄‍♂️ Connect with me
 <p align="left">
