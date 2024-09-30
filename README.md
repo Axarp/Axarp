@@ -9,7 +9,6 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 ---
 
-
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
 
@@ -26,7 +25,8 @@ Data analyst with a master’s in data science, specializing in data engineering
 - 📫 Reach out to me at **aksharpatel1913@gmail.com**
 
 - ⚡ Fun fact **I enjoy discovering hidden patterns in data and turning them into actionable insights.**
-
+  
+  <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/43762/screenshots/2823461/big_data-msoft-dribbble.gif">
 
 ### 🧰 Languages and Tools
 
@@ -44,7 +44,6 @@ Data analyst with a master’s in data science, specializing in data engineering
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
 </p>
-
 
 
 ### 📊 Stats
