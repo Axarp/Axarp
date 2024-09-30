@@ -11,7 +11,6 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
 
-
 - 🔭 I’m currently working on **Working on healthcare data analysis and building advanced data pipelines to drive actionable insights.**
 
 - 🌱 I’m currently learning **Deepening my skills in Data Engineering & Cloud Computing(AWS).**
