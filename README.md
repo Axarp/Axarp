@@ -21,7 +21,7 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 - 📫 Reach out to me at **aksharpatel1913@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/aksha/Desktop/AKSHAR_PATEL_RESUME_2024_New.pdf](file:///C:/Users/aksha/Desktop/AKSHAR_PATEL_RESUME_2024_New.pdf)
+- 📄 Know about my experiences [file:///C:/Users/aksha/Desktop/AKSHAR_PATEL_C.V_2024_New.pdf](file:///C:/Users/aksha/Desktop/AKSHAR_PATEL_C.V_2024_New.pdf)
 
 - ⚡ Fun fact **I enjoy discovering hidden patterns in data and turning them into actionable insights.**
 
