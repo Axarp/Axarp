@@ -11,11 +11,11 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 - 🔭 I’m currently working on **Working on healthcare data analysis and building advanced data pipelines to drive actionable insights.**
 
-- 🌱 I’m currently learning **Deepening my skills in data engineering, data science, and machine learnin.**
+- 🌱 I’m currently learning **Deepening my skills in Data Engineering & Cloud Computing(AWS).**
 
-- 👯 I’m looking to collaborate on **Open to collaborating on data-driven projects and analytics initiatives.**
+- 👯 I’m looking to collaborate on **Open to collaborating on Data-driven projects and analytics initiatives.**
 
-- 💬 Ask me about **Data analysis, Python, SQL, data visualization, and machine learning techniques.**
+- 💬 Ask me about **Data analysis, Python, SQL, Data Visualization, and Machine learning techniques.**
 
 - 📫 How to reach me **aksharpatel1913@gmail.com**
 
