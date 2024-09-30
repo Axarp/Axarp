@@ -9,7 +9,7 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IMy3xPh1fdA4PE7Yg6vYOoMG7Za4TV2-jA&s">
+<img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
 
 
 - 🔭 I’m currently working on **Working on healthcare data analysis and building advanced data pipelines to drive actionable insights.**
