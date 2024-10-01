@@ -9,7 +9,7 @@ Data analyst with a master’s in data science, specializing in data engineering
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/2823461/big_data-msoft-dribbble.gif">
 
 - 🔭 I’m currently working on **Working on healthcare data analysis and building advanced data pipelines to drive actionable insights.**
 
@@ -24,9 +24,9 @@ Data analyst with a master’s in data science, specializing in data engineering
 - 📫 Reach out to me at **aksharpatel1913@gmail.com**
 
 - ⚡ Fun fact **I enjoy discovering hidden patterns in data and turning them into actionable insights.**
-  
-  <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/43762/screenshots/2823461/big_data-msoft-dribbble.gif">
 
+<img align="right" alt="coding" width="00" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
+  
 ### 🧰 Languages and Tools
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
